@@ -1,0 +1,9 @@
+
+s
+java:S1104"VMake properties a static final constant or non-public and provide accessors if needed.(é‰¤ÿ8»™…¾…/
+S
+java:S1128"6Remove this unused import 'lombok.extern.log4j.Log4j'.(ñÔêÐ8¶ãÅ¾…/
+M
+java:S1444"0Make this "public static properties" field final(é‰¤ÿ8—Ê…¾…/
+:
+java:S2386"Make this member "protected".(é‰¤ÿ8—Ê…¾…/
